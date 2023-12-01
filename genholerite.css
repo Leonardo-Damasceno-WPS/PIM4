@@ -1,0 +1,35 @@
+﻿/* Estilização do rodapé */
+.holerite-footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.holerite-container {
+    background-image: url(IMG2/2Captura-de-tela-2023-04-12-213449.png);
+}
+
+/* Estilo de exibição do funcionário */
+.funcionario-info ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: inset;
+    border-radius: 9px;
+}
+
+.funcionario-info li {
+    margin-bottom: 10px;
+    border-bottom-style: outset;
+    margin-top: 0.8rem;
+}
+
+.empresa-info ul {
+    border: inset;
+    border-radius: 9px;
+}
+
+.empresa-info li {
+    border-bottom-style: outset;
+    margin-top: 0.8rem;
+    margin-left: -2.5rem;
+}

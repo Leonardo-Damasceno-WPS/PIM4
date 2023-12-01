@@ -1,0 +1,44 @@
+﻿/* Estilo para o rodapé do holerite */
+.rodape {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilo para o total */
+.total {
+    background-image: url(IMG/2Captura-de-tela-2023-04-12-213449.png);
+    font-weight: bold;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.holerite-cabecalho {
+    background-image: url(IMG2/2Captura-de-tela-2023-04-12-213449.png);
+}
+
+/* Estilo para as informações do funcionário */
+.informacao ul {
+    background-image: url(IMG2/2Captura-de-tela-2023-04-12-213449.png);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: inset;
+    border-radius: 9px;
+}
+
+.informacao li {
+    margin-bottom: 10px;
+    border-bottom-style: outset;
+    margin-top: 0.8rem;
+}
+
+.enterprise ul {
+    border: inset;
+    border-radius: 9px;
+}
+
+.enterprise li {
+    border-bottom-style: outset;
+    margin-top: 0.8rem;
+    margin-left: -2.5rem;
+}
